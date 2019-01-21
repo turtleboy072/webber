@@ -1,0 +1,4 @@
+module CNIOSHA1 {
+    umbrella "/Users/jimallan/Downloads/final/location-track-server/.build/checkouts/swift-nio.git--6366962673426627918/Sources/CNIOSHA1/include"
+    export *
+}

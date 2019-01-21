@@ -1,0 +1,4 @@
+module CNIOHTTPParser {
+    umbrella "/Users/jimallan/Downloads/final/location-track-server/.build/checkouts/swift-nio.git--6366962673426627918/Sources/CNIOHTTPParser/include"
+    export *
+}
